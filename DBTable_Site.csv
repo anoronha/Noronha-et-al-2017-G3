@@ -1,0 +1,68 @@
+,idSite,ISGN,SiteName,Location,SiteType,XLocation,YLocation,SiteCode,Note,Active
+0,0,IEBAN002,Stumpy,Jinapsan Cave,cave drip,,,SMP,,1
+1,1,IEBAN003,Stumpys Brother,Jinapsan Cave,cave drip,,,BRO,,1
+2,2,IEBAN0006,Amidala,Jinapsan Cave,cave drip,,,AMD,"Retired 5/2015, sometimes referred to as Stumpy Amidala",0
+3,3,IEBAN004,Station 1,Jinapsan Cave,cave drip,,,ST1,,1
+4,4,IEBAN005,Station 2,Jinapsan Cave,cave drip,,,ST2,"Site of stalagmite Shakey, also referred to as Big Guam in some of Dan Sinclairs publications",1
+5,5,IEBAN000K,Station 3,Jinapsan Cave,cave drip,,,ST3,,0
+6,6,IEBAN000L,Station 4,Jinapsan Cave,cave drip,,,ST4,,0
+7,7,IEBAN008,Flatman,Jinapsan Cave,cave drip,,,FTM,,1
+8,8,IEBAN007,Trinity,Jinapsan Cave,cave drip,,,TRN,,1
+9,9,IEBAN000I,Pool,Jinapsan Cave,cave pool,,,POL,,1
+10,10,IEBAN000J,Borehole,Jinapsan Cave,cave drip,,,BHL,,0
+11,11,,Cave Entrance,Jinapsan Cave,cave room,,,,,1
+12,12,,Ante Room,Jinapsan Cave,cave room,,,,,1
+13,13,,Midslide,Jinapsan Cave,cave room,,,,,1
+14,14,,Shakey Room,Jinapsan Cave,cave room,,,,,1
+15,15,,Stumpy Room,Jinapsan Cave,cave room,,,,,1
+16,16,,Big Room,Jinapsan Cave,cave room,,,,,0
+17,17,,Elbow Room,Jinapsan Cave,cave room,,,,,1
+18,18,,Surface Site 1,Jinapsan Cave,cave room,,,,,1
+19,19,IEBAN000M,Snowman,Ritidian Cave,cave drip,,,SNOW,Regular plate collections stopped 5/2015,1
+20,20,IEBAN000N,Chrome Dome,Ritidian Cave,cave drip,,,CHROME,Regular plate collections stopped 5/2015,1
+21,21,IEBAN000O,Robin,Ritidian Cave,cave drip,,,ROBIN,Regular plate collections stopped 5/2015,1
+22,22,IEBAN000A,H5 Rain Collector,University of Guam,rain collector,,,UOG,,1
+23,23,,Cave Rain Collector,Jinapsan Cave,rain collector,,,JIN,"retired 5/2015, after Typhoon Dolphin",0
+24,24,,Spot Check Tree,Guam National Wildlife Refuge,,,,,,1
+25,25,,A03,GWA Well,production well,257331.100209,1488082.30584,A03,,0
+26,26,,A10,GWA Well,production well,260897.129645,1488207.27048,A10,,1
+27,27,,A13,GWA Well,production well,260125.130328,1487633.05358,A13,,0
+28,28,,A15,GWA Well,production well,,,A15,,0
+29,29,,AG2A,GWA Well,production well,269918.749166,1502766.82651,AG2A,,0
+30,30,,D04,GWA Well,production well,267220.190003,1495872.7621,D04,,0
+31,31,,D09,GWA Well,production well,,,D09,,0
+32,32,,D10,GWA Well,production well,267579.230604,1496844.42448,D10,,0
+33,33,,D11,GWA Well,production well,,,D11,,0
+34,34,,D14,GWA Well,production well,266289.869828,1495068.50541,D14,,1
+35,35,,EX11,GWA Well,production well,266328.875784,1491882.48327,EX11,,0
+36,36,,F02,GWA Well,production well,267469.317005,1501832.232,F02,,1
+37,37,,M01,GWA Well,production well,,,M01,,0
+38,38,,M03,GWA Well,production well,266764.9463,1491970.23067,M03,,0
+39,39,,M04,GWA Well,production well,267044.121774,1492016.92132,M04,,0
+40,40,,M06,GWA Well,production well,266592.388279,1494360.76892,M06,,0
+41,41,,M07,GWA Well,production well,,,M07,,0
+42,42,,M08,GWA Well,production well,,,M08,,0
+43,43,,M09,GWA Well,production well,,,M09,,0
+44,44,,M14,GWA Well,production well,264717.884521,1495571.5859,M14,,0
+45,45,,Y02,GWA Well,production well,270813.486834,1496305.21104,Y02,,0
+46,46,,Y07,GWA Well,production well,272181.13722,1497343.39134,Y07,,0
+47,47,,Y15,GWA Well,production well,274452.645588,1499492.7825,Y15,,1
+48,48,,M18,GWA Well,production well,263859.084219,1495077.85323,M18,,0
+49,49,,Y23,GWA Well,production well,272519.618923,1498173.78813,Y23,,0
+50,50,,No Can Fracture,Coastal Spring,freshwater spring,265879.6,1505152.0,NOCAN,,1
+51,51,,The Arch,Coastal Spring,freshwater spring,265905.8,1504909.2,ARCH,,1
+52,52,,Ayuyu Cave,Coastal Spring,freshwater spring,265901.1,1503588.1,AYUYU,,1
+53,53,,Ague Cove,Coastal Spring,freshwater spring,,,AGUE,,1
+54,54,,Franks Cave,Coastal Spring,freshwater spring,,,FRANK,,1
+55,55,,Menpachi Fracture,Coastal Spring,freshwater spring,,,MENPA,,1
+56,56,,Lunch Fracture,Coastal Spring,freshwater spring,,,LUNCH,,1
+57,57,,Scotts Fracture,Coastal Spring,freshwater spring,,,SCOTT,,1
+58,58,,Randall Springs,Coastal Spring,freshwater spring,,,RAND,,1
+59,59,,The Grotto,Coastal Spring,freshwater spring,,,GROTTO,,1
+60,60,,Haputo Beach,Coastal Spring,freshwater spring,,,HAPU,,1
+61,61,,Fountain,Coastal Spring,freshwater spring,,,FOUNT,,1
+62,62,,GNIP Rain Collector,Taguac,rain collector,265161.11,1499001.75,GNIP,,0
+63,63,,Nathan Home,Dededo,rain collector,,,,,0
+64,64,,Daniel Home,S Guam,rain collector,,,,,0
+65,65,,South Landing,Jinapsan Cave,cave room,,,,,1
+66,66,,Rest Stop,Guam National Wildlife Refuge,,,,,,1
