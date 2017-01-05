@@ -4,4 +4,4 @@ Data and code described in [Noronha et. al., 2017 G3](http://dx.doi.org/10.1002/
 
 CSV files with header 'DBTable_' are copies of SQLite db tables
 
-Pickle files are called by Python script, also inlcuded as csv files
+Pickle files (also inlcuded in csv form) are queried and caldualted based on db tables and called by Python script, 
